@@ -1,0 +1,42 @@
+
+ Performance counter stats for process id '25231':
+
+   1280370298      cycles
+   3079501      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.680735947      point_cpu_freq_ghz
+   347857145.000000000      pointer_chase_thread_ns
+   113.234747721      latency_direct_ns
+
+       0.347966674 seconds time elapsed
+
+
+ Performance counter stats for process id '25231':
+
+   1281543815      cycles
+   3079500      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.680458686      point_cpu_freq_ghz
+   348202201.000000000      pointer_chase_thread_ns
+   113.347070638      latency_direct_ns
+
+       0.348300283 seconds time elapsed
+
+
+ Performance counter stats for process id '25231':
+
+   1280676649      cycles
+   3079502      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.679796020      point_cpu_freq_ghz
+   348029250.000000000      pointer_chase_thread_ns
+   113.290771484      latency_direct_ns
+
+       0.348158629 seconds time elapsed
+

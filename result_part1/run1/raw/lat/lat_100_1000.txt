@@ -1,0 +1,42 @@
+
+ Performance counter stats for process id '20604':
+
+   1017459230      cycles
+   3079428      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.679707541      point_cpu_freq_ghz
+   276505461.000000000      pointer_chase_thread_ns
+   90.008288086      latency_direct_ns
+
+       0.276601560 seconds time elapsed
+
+
+ Performance counter stats for process id '20604':
+
+   1017524097      cycles
+   3079430      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.679322439      point_cpu_freq_ghz
+   276552032.000000000      pointer_chase_thread_ns
+   90.023447917      latency_direct_ns
+
+       0.276655640 seconds time elapsed
+
+
+ Performance counter stats for process id '20604':
+
+   1017328937      cycles
+   3079431      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.678898076      point_cpu_freq_ghz
+   276530884.000000000      pointer_chase_thread_ns
+   90.016563802      latency_direct_ns
+
+       0.276638185 seconds time elapsed
+

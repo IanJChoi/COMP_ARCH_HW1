@@ -1,0 +1,42 @@
+
+ Performance counter stats for process id '29699':
+
+   1548206466      cycles
+   3079576      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.678565115      point_cpu_freq_ghz
+   420872383.000000000      pointer_chase_thread_ns
+   137.002728841      latency_direct_ns
+
+       0.421032884 seconds time elapsed
+
+
+ Performance counter stats for process id '29699':
+
+   1547994787      cycles
+   3079576      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.680201278      point_cpu_freq_ghz
+   420627751.000000000      pointer_chase_thread_ns
+   136.923096029      latency_direct_ns
+
+       0.420801063 seconds time elapsed
+
+
+ Performance counter stats for process id '29699':
+
+   1548008883      cycles
+   3079580      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.679362762      point_cpu_freq_ghz
+   420727442.000000000      pointer_chase_thread_ns
+   136.955547526      latency_direct_ns
+
+       0.420921849 seconds time elapsed
+

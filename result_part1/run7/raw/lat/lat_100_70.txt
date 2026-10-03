@@ -1,0 +1,42 @@
+
+ Performance counter stats for process id '4382':
+
+   1124858937      cycles
+   3079456      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.681454096      point_cpu_freq_ghz
+   305547457.000000000      pointer_chase_thread_ns
+   99.462062826      latency_direct_ns
+
+       0.305648658 seconds time elapsed
+
+
+ Performance counter stats for process id '4382':
+
+   1125938426      cycles
+   3079463      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.679946018      point_cpu_freq_ghz
+   305966017.000000000      pointer_chase_thread_ns
+   99.598312826      latency_direct_ns
+
+       0.306448378 seconds time elapsed
+
+
+ Performance counter stats for process id '4382':
+
+   1126490611      cycles
+   3079457      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.680903646      point_cpu_freq_ghz
+   306036430.000000000      pointer_chase_thread_ns
+   99.621233724      latency_direct_ns
+
+       0.306483456 seconds time elapsed
+

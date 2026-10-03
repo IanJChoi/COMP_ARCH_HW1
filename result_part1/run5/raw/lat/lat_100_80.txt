@@ -1,0 +1,42 @@
+
+ Performance counter stats for process id '3253':
+
+   1098616827      cycles
+   3079451      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.679862355      point_cpu_freq_ghz
+   298548348.000000000      pointer_chase_thread_ns
+   97.183707031      latency_direct_ns
+
+       0.298989477 seconds time elapsed
+
+
+ Performance counter stats for process id '3253':
+
+   1100029646      cycles
+   3079454      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.678527874      point_cpu_freq_ghz
+   299040726.000000000      pointer_chase_thread_ns
+   97.343986328      latency_direct_ns
+
+       0.299201528 seconds time elapsed
+
+
+ Performance counter stats for process id '3253':
+
+   1098698823      cycles
+   3079450      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.680294991      point_cpu_freq_ghz
+   298535532.000000000      pointer_chase_thread_ns
+   97.179535156      latency_direct_ns
+
+       0.298705165 seconds time elapsed
+

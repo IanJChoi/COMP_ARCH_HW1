@@ -1,0 +1,42 @@
+
+ Performance counter stats for process id '3810':
+
+   1021945158      cycles
+   3079430      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.681596404      point_cpu_freq_ghz
+   277582072.000000000      pointer_chase_thread_ns
+   90.358747396      latency_direct_ns
+
+       0.277703917 seconds time elapsed
+
+
+ Performance counter stats for process id '3810':
+
+   1000081622      cycles
+   3079428      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.581791898      point_cpu_freq_ghz
+   279212654.000000000      pointer_chase_thread_ns
+   90.889535807      latency_direct_ns
+
+       0.279320207 seconds time elapsed
+
+
+ Performance counter stats for process id '3810':
+
+   1002806301      cycles
+   3079433      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.583179754      point_cpu_freq_ghz
+   279864916.000000000      pointer_chase_thread_ns
+   91.101860677      latency_direct_ns
+
+       0.279958454 seconds time elapsed
+

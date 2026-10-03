@@ -1,0 +1,24 @@
+
+ Performance counter stats for system wide:
+
+S0           7                  7797965      uncore_imc/data_reads/
+S0           7                  31785      uncore_imc/data_writes/
+
+       0.100422755 seconds time elapsed
+
+
+ Performance counter stats for system wide:
+
+S0           7                  7992279      uncore_imc/data_reads/
+S0           7                  28835      uncore_imc/data_writes/
+
+       0.100385550 seconds time elapsed
+
+
+ Performance counter stats for system wide:
+
+S0           7                  7798784      uncore_imc/data_reads/
+S0           7                  29983      uncore_imc/data_writes/
+
+       0.100414726 seconds time elapsed
+

@@ -1,0 +1,42 @@
+
+ Performance counter stats for process id '30310':
+
+   1412524214      cycles
+   3079537      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.680606565      point_cpu_freq_ghz
+   383774845.000000000      pointer_chase_thread_ns
+   124.926707357      latency_direct_ns
+
+       0.383893556 seconds time elapsed
+
+
+ Performance counter stats for process id '30310':
+
+   1412553404      cycles
+   3079537      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.680174003      point_cpu_freq_ghz
+   383827885.000000000      pointer_chase_thread_ns
+   124.943972982      latency_direct_ns
+
+       0.383967772 seconds time elapsed
+
+
+ Performance counter stats for process id '30310':
+
+   1414167064      cycles
+   3079543      instructions
+   3072000      accesses
+   0      r1012
+   0      r2012
+   3.679789261      point_cpu_freq_ghz
+   384306536.000000000      pointer_chase_thread_ns
+   125.099783854      latency_direct_ns
+
+       0.384444209 seconds time elapsed
+

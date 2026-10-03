@@ -1,0 +1,9 @@
+Huge page allocation failed for array A, falling back to posix_memalign
+Huge page allocation failed for array B, falling back to posix_memalign
+TrafficGen started: ratio=100, pause=0, workers=3, elements=32768000
+Huge page allocation failed for array A, falling back to posix_memalign
+Huge page allocation failed for array B, falling back to posix_memalign
+TrafficGen started: ratio=100, pause=0, workers=3, elements=32768000
+Huge page allocation failed for array A, falling back to posix_memalign
+Huge page allocation failed for array B, falling back to posix_memalign
+TrafficGen started: ratio=100, pause=0, workers=3, elements=32768000

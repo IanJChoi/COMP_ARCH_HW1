@@ -1,0 +1,1 @@
+For detailed TrafficGen log files, use verbosity >= 3 (--verbose 3)
